@@ -2,7 +2,8 @@
 <h3 align="center">frontend developer from Turkey</h3>
 
 - 📫 How to reach me **eminkumru135@outlook.com**
-- [CV - Emin Kumru.pdf](https://github.com/eminkmru/eminkmru/files/12409516/CV.-.Emin.Kumru.2.pdf)
+- [CV - Emin Kumru.pdf](https://github.com/eminkmru/eminkmru/files/12484505/CV.-.Emin.Kumru.pdf)
+
 
 
 <h3 align="left">Connect with me:</h3>
